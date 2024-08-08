@@ -9,5 +9,5 @@ chmod +x cli-apps-installer.sh
 ## Execute
 
 ```Bash
-./cli-apps-installer.sh
+./cli-apps-installer.sh --gui
 ```
